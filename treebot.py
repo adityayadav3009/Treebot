@@ -3,7 +3,7 @@ import streamlit as st
 
 st.title("TREE BOT")
 # dictionary
-
+st.write("README : "+ "https://github.com/adityayadav3009/Treebot/blob/main/README.md" )
 tree_data = {
     "Oak": {
         "questions": [
