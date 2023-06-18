@@ -1,7 +1,7 @@
 # Treebot
 A very basic treebot that can explain pre answered questions
 
-Run the treebot file 
+Access the bot here : https://adityayadav3009-treebot-treebot-jp00p0.streamlit.app/
 
 
 Questions that can be asked
